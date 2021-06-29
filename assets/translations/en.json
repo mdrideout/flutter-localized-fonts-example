@@ -1,0 +1,4 @@
+{
+  "intro_text": "This text is here to test translation rendering. On locale change, Flutter should re-render content using a system font compatible with the language's character set. You may notice a brief display of missing characters before the new language renders.",
+  "change_language": "Change Language"
+}
